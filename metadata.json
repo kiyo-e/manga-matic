@@ -1,0 +1,5 @@
+{
+  "name": "Manga Matic",
+  "description": "Manga Matic is a prototype that lets users generate short comic strips with the help of Google Gemini. The app collects a simple prompt, creates a four-panel script, and renders manga-style images for each panel.",
+  "requestFramePermissions": []
+}
